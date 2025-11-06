@@ -70,7 +70,7 @@
    "id": "1acfa325",
    "metadata": {
     "jupyter": {
-     "source_hidden": true
+     "source_hidden": True
     }
    },
    "source": [
@@ -420,7 +420,7 @@
    "execution_count": 23,
    "id": "e8438627",
    "metadata": {
-    "scrolled": true
+    "scrolled": True
    },
    "outputs": [],
    "source": [
@@ -506,7 +506,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "449bb70e",
    "metadata": {},
    "outputs": [],
@@ -573,7 +573,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "aa6099b5",
    "metadata": {},
    "outputs": [],
